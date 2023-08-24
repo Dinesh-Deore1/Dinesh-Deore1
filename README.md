@@ -1,4 +1,9 @@
-### Hi there 👋, I am Dinesh Deore
+<h1 align="center">Hi 👋, I'm Dinesh Deore</h1>
+<h3 align="center">Coding my Way to the Future</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **Dinesh-Deore1/Dinesh-Deore1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
