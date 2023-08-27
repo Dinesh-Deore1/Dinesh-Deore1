@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Deore</h1>
-<h3 align="center">CSE '25 Undergrad </h3>
+<h3 align="center">💻 CSE '25 Undergrad </h3>
 
 <p align="left">
 </p>
