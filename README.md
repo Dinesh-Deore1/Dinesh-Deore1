@@ -4,8 +4,6 @@
 <p align="left">
 </p>
 
-## 🌟 Holopin Badges
-[![An image of @dineshdeore1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshdeore1)](https://holopin.io/@dineshdeore1)
 
 # 💫 About Me:
 🔭 I’m B.Tech computer science student and Graduate in 2025.<br>📫 How to reach me dineshdeore.rcpit@gmail.com
@@ -52,7 +50,7 @@
 
 ---
 
-
+[![](https://visitcount.itsvg.in/api?id=dinesh-deore1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
