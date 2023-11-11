@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-
+[![An image of @dineshdeore1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshdeore1)](https://holopin.io/@dineshdeore1)
 # 💫 About Me:
 🔭 I’m B.Tech computer science student and Graduate in 2025.<br>📫 How to reach me dineshdeore.rcpit@gmail.com
 
