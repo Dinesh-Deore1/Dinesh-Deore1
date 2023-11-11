@@ -3,7 +3,7 @@
 
 <p align="left">
 </p>
-
+## 🌟 Badges:
 [![An image of @dineshdeore1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshdeore1)](https://holopin.io/@dineshdeore1)
 # 💫 About Me:
 🔭 I’m B.Tech computer science student and Graduate in 2025.<br>📫 How to reach me dineshdeore.rcpit@gmail.com
@@ -45,10 +45,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dinesh-deore1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-deore1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[//]: <> ### ✍️ Random Dev Quote
+[//]: <> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+### 🪬Profile Views
 
 [![](https://visitcount.itsvg.in/api?id=dinesh-deore1&icon=0&color=0)](https://visitcount.itsvg.in)
 
