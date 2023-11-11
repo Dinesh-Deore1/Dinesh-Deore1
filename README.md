@@ -3,6 +3,7 @@
 
 <p align="left">
 </p>
+
 ## 🌟 Badges:
 
 [![An image of @dineshdeore1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dineshdeore1)](https://holopin.io/@dineshdeore1)
